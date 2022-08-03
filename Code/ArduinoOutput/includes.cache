@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\javig\\AppData\\Local\\Arduino15\\packages\\SPRESENSE\\hardware\\spresense\\2.5.1\\cores\\spresense"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\javig\\AppData\\Local\\Arduino15\\packages\\SPRESENSE\\hardware\\spresense\\2.5.1\\variants\\spresense"
+  },
+  {
+    "Sourcefile": "c:\\Users\\javig\\Desktop\\Proyecto\\Spresense\\Code\\ArduinoOutput\\sketch\\main.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\javig\\Desktop\\Proyecto\\Spresense\\Code\\ArduinoOutput\\sketch\\analog_sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\javig\\Desktop\\Proyecto\\Spresense\\Code\\ArduinoOutput\\sketch\\temperature_sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

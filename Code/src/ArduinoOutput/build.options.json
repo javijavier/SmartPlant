@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "..,..,..,..,..,..,..,..",
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "builtInToolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\javig\\AppData\\Local\\Arduino15\\packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=c:\\Users\\javig\\Desktop\\Proyecto\\Spresense\\Code\\src\\ArduinoOutput,build.warn_data_percentage=75,runtime.tools.gcc-arm-none-eabi.path=C:\\Users\\javig\\AppData\\Local\\Arduino15\\packages\\SPRESENSE\\tools\\gcc-arm-none-eabi\\9.2.1,runtime.tools.gcc-arm-none-eabi-9.2.1.path=C:\\Users\\javig\\AppData\\Local\\Arduino15\\packages\\SPRESENSE\\tools\\gcc-arm-none-eabi\\9.2.1,runtime.tools.spresense-tools.path=C:\\Users\\javig\\AppData\\Local\\Arduino15\\packages\\SPRESENSE\\tools\\spresense-tools\\2.5.1,runtime.tools.spresense-tools-2.5.1.path=C:\\Users\\javig\\AppData\\Local\\Arduino15\\packages\\SPRESENSE\\tools\\spresense-tools\\2.5.1,runtime.tools.spresense-sdk.path=C:\\Users\\javig\\AppData\\Local\\Arduino15\\packages\\SPRESENSE\\tools\\spresense-sdk\\2.5.1,runtime.tools.spresense-sdk-2.5.1.path=C:\\Users\\javig\\AppData\\Local\\Arduino15\\packages\\SPRESENSE\\tools\\spresense-sdk\\2.5.1",
+  "fqbn": "SPRESENSE:spresense:spresense:Core=Main,Memory=768,Debug=Disabled,UploadSpeed=115200",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\javig\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\javig\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10819",
+  "sketchLocation": "c:\\Users\\javig\\Desktop\\Proyecto\\Spresense\\Code\\src\\main\\main.ino"
+}
